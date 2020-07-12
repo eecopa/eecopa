@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.imgur.com/YdShVYs.jpg" alt="me.jpg" width="200" />
+</p>
+
 ### Hi there 👋
 
 <!--
