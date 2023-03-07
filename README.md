@@ -1,9 +1,12 @@
+
+![Photo of Elias Emanuel Copa](https://user-images.githubusercontent.com/12091098/223525872-d1bf6d37-11e1-450c-9bc3-346125cf7786.JPG)
+
+
+Hi! 👋 My name is Elias (he/him).
 <!--
-<p align="center">
-  <img src="https://i.imgur.com/YdShVYs.jpg" alt="me.jpg" width="200" />
-</p>
--->
-### Hi, I'm Elias 👋
+# Elias Emanuel Copa
+ 
+I'm the CEO of [Planet Argon](https://www.planetargon.com/), a company that guides organizations with existing Ruby on Rails applications to help make them better and more maintainable. 
 
 <a href="https://instagram.com/visionmonocroma">
   <img align="left" alt="Elias Emanuel Copa - Instagram" width="25px" src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/instagram_online_social_media_photo-256.png"/>
@@ -37,7 +40,7 @@
 <img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <p>
-<!--
+
 **eecopa/eecopa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
